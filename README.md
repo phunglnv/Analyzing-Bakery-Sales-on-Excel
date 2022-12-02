@@ -1,7 +1,7 @@
 
 # Should the bakery change menu?
 
-This is the project to prace analyzing skills on Excel, follow the course Error and Uncertainty in Spreadsheets on Datacamp. 
+This is the project to practice analyzing skills on Excel, follow the course Error and Uncertainty in Spreadsheets on Datacamp. 
 
 
 
